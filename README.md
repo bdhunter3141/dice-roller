@@ -1,1 +1,1 @@
-# dice-roller
+Create a dice-rolling function that prints to command line after taking a number of dice from the command line.
